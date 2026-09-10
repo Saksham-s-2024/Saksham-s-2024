@@ -1,5 +1,27 @@
-# 💫 About Me:
-Computer Science undergraduate specializing in Agentic AI, LLM orchestration, and autonomous multi-agent architectures. My work focuses on building robust workflows that turn raw model intelligence into deterministic, goal-driven systems—from dynamic tool-calling pipelines to multi-agent reasoning loops.Currently I am working on multi model architecture , and also as a part of my major project i am working on a project which is "EEG based Motor imagery classification".Also I previously worked on DalalStreet AI, a quantitative platform delivering real-time trend forecasting and automated risk assessment architectures for financial markets. Passionate about rapid execution, AI-driven development workflows, and pushing the boundaries of autonomous systems.<br>Focus: Agentic AI, Autonomous Workflows, LLM Orchestration, and Quantitative Systems.<br><br>Architecture Experience: Designing deterministic agent loops, multi-agent collaboration frameworks, tool-use protocols, and structured reasoning pipelines.
+# Hey there, it's Saksham 👽
+**_AGENTIC AI WORKFLOWS AND ARCHITECTURE_**
+
+Computer Science undergraduate specializing in **_Agentic AI, LLM orchestration, and autonomous multi-agent architectures_**. My work focuses on building robust workflows that turn raw model intelligence into deterministic, goal-driven systems—from dynamic tool-calling pipelines to multi-agent reasoning loops.
+
+Currently, working on multi agentic architecture project envolving fine-tuned multiple end-to-end deployed agents, and as a part of my major project i am working on a project **_"EEG based Motor Imagery classification"_**, which decodes human brain signals—recorded during the mental imagination of a physical movement—into specific computer commands for Brain-Computer Interfaces(BCIs).
+
+Previously worked on DalalStreet AI, a quantitative platform delivering real-time trend forecasting and automated risk assessment architectures for financial markets. 
+
+Passionate about rapid execution, AI-driven development workflows, and pushing the boundaries of autonomous systems.
+
+**Focus:**
+- Agentic AI
+- Autonomous Workflows
+- LLM Orchestration
+- Quantitative Systems
+- Agentic Eval
+- LLM Gateways
+
+**Architecture Experience:**
+- Designing deterministic agent loops
+- multi-agent collaboration frameworks
+- tool-use protocols
+- structured reasoning pipelines.
 
 
 ## 🌐 Socials:
@@ -13,6 +35,5 @@ Computer Science undergraduate specializing in Agentic AI, LLM orchestration, an
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saksham-s-2024&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Saksham-s-2024&icon=0&color=2)](https://visitcount.itsvg.in)
-
+___________________________________________________________________________________________________________________________________________________________________________________
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
