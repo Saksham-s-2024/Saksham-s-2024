@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a140b,100:0d1117&height=160&section=header&animation=twinkling" width="100%">
 </picture>
 
-<img src="assets/titanium-heading(1).svg" width="720" alt="Saksham Sinha — Agentic AI Architect, LLM Orchestration, Autonomous Multi-Agent Systems">
+<img src="assets/titanium-heading.svg" width="720" alt="Saksham Sinha — Agentic AI Architect, LLM Orchestration, Autonomous Multi-Agent Systems">
 
 <sub>
 
