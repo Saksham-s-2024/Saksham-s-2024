@@ -8,19 +8,11 @@
 
 <img src="assets/titanium-heading.svg" width="720" alt="Saksham Sinha — Agentic AI Architect, LLM Orchestration, Autonomous Multi-Agent Systems">
 
-<sub>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Saksham-s-2024&style=flat-square&color=F5A623&label=PROFILE+VIEWS&labelColor=0d1117)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/Saksham-s-2024?style=flat-square&color=F5A623&labelColor=0d1117&label=FOLLOWERS)
-
-</sub>
 
 </div>
 
 <br>
 
-## 👋 Who Am I
 
 `about.yaml`
 
