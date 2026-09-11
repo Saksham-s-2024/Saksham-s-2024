@@ -1,11 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a140b,100:0d1117&height=160&section=header&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:fff3d6,100:ffffff&height=160&section=header&animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a140b,100:0d1117&height=160&section=header&animation=twinkling" width="100%">
-</picture>
-
 <img src="titanium-heading.svg" width="720" alt="Saksham Sinha — Agentic AI Architect, LLM Orchestration, Autonomous Multi-Agent Systems">
 
 
