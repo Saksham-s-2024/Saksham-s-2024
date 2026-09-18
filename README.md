@@ -40,7 +40,7 @@ driven_by: >
 
 <br>
 
-## 🎯 `focus_areas`
+##  `Focus_areas`
 
 <div align="center">
 
@@ -51,7 +51,7 @@ driven_by: >
 
 </div>
 
-## 🏗️ `architecture_experience`
+##  `Architecture_experience`
 
 ```
 ▸ Designing deterministic agent loops
@@ -82,7 +82,7 @@ driven_by: >
 
 <br>
 
-## 📊 `analytics`
+##  `Analytics`
 
 <div align="center">
 
@@ -111,7 +111,7 @@ driven_by: >
 
 </div>
 
-## 🏆 `trophies`
+##  `Trophies`
 
 <div align="center">
 
@@ -123,7 +123,7 @@ driven_by: >
 
 </div>
 
-## 🐍 `contribution_graph`
+##  `Contribution_graph`
 
 <div align="center">
 
@@ -139,7 +139,7 @@ driven_by: >
 
 <br>
 
-## 🌐 `connect`
+## `Connect`
 
 <div align="center">
 
