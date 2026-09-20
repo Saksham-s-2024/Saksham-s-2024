@@ -46,8 +46,8 @@ driven_by: >
 
 |  |  |  |
 |:---:|:---:|:---:|
-| 🤖 &nbsp;Agentic AI | 🔄 &nbsp;Autonomous Workflows | 🧠 &nbsp;LLM Orchestration |
-| 📈 &nbsp;Quantitative Systems | 🧪 &nbsp;Agentic Eval | 🚪 &nbsp;LLM Gateways |
+| 🤖 &nbsp;Agentic AI |  &nbsp;Autonomous Workflows |  &nbsp;LLM Orchestration |
+| 📈 &nbsp;Quantitative Systems |  &nbsp;Agentic Eval |  &nbsp;LLM Gateways |
 
 </div>
 
