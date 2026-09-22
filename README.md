@@ -62,7 +62,7 @@ driven_by: >
 
 <br>
 
-##  `Tech_stack`
+##  `Tech_Stack`
 
 <div align="center">
 
