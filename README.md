@@ -31,7 +31,7 @@ currently_building: >
 previously: >
   DalalStreet AI — a quantitative platform delivering real-time trend
   forecasting and automated risk assessment architectures for financial
-  markets.
+  markets. 
 
 driven_by: >
   Rapid execution, AI-driven development workflows, and pushing the
